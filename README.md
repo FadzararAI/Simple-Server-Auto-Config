@@ -2,6 +2,7 @@
 This is just some small codes I wrote to automate my server's configurations during high school.
 
 Packages that have to be installed and will be used in the auto configuration:
+- Debian 9 (OS)
 - Bind9 (DNS)
 - Apache2 (Webserver)
 - Postfix (Mail server)
