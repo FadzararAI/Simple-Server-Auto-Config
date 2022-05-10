@@ -6,4 +6,4 @@ Packages that have to be installed and will be used in the auto configuration:
 - Apache2 (Webserver)
 - Postfix (Mail server)
 
-I managed to always get good scores because I always succeed in creating the server during my high school years.
+I managed to always get good scores because I always succeed in setting up the server during my high school years.
